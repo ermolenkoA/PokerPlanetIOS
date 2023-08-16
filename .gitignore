@@ -18,6 +18,9 @@ xcuserdata
 *.moved-aside
 
 /Pods
+Podfile.lock
+*.xcworkspace
+
 /Carthage
 
 .swiftpm
